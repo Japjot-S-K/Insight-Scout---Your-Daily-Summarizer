@@ -53,13 +53,20 @@ streamlit run main.py
 
 ---
 
-## 🔥 Screenshots
+## 📸 Screenshots
 
-### Homepage
-![Homepage](screenshots/homepage.png)
+### App Interface
+![Interface](screenshots/Interface.png)
 
-### Question & Answer Interface
-![Q&A Interface](screenshots/question_answer.png)
+### Load Links Section
+![Load Links](screenshots/LoadLinks.png)
+
+### Get Your Answer Feature
+![Get Your Answer](screenshots/GetYourAnswer.png)
+
+### What's It About Section
+![What's It About](screenshots/WhatsItAbout.png)
+
 
 
 ## 📁 Project Structure
