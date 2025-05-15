@@ -1,0 +1,11 @@
+streamlit==1.22.0
+langchain==0.0.284
+langchain-community
+openai
+faiss-cpu==1.7.4
+unstructured==0.9.2
+python-dotenv==1.0.0
+tiktoken==0.4.0
+requests
+streamlit-lottie
+sentence-transformers
