@@ -53,6 +53,15 @@ streamlit run main.py
 
 ---
 
+## 🔥 Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Question & Answer Interface
+![Q&A Interface](screenshots/question_answer.png)
+
+
 ## 📁 Project Structure
 
 - `main.py` – Streamlit app code with UI + backend logic.
