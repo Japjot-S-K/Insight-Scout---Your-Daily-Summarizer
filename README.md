@@ -1,6 +1,6 @@
 # Insight Scout: AI-Powered News Research Tool
 
-Tired of understanding large asticles without finding any baseline? Wanna ask questions about an article but are butchered by the character limit in other AI tools?
+Tired of understanding large articles without finding any baseline? Wanna ask questions about an article but are butchered by the character limit in other AI tools?
 I bring to you Insight Scout.
 Insight Scout is a streamlined, AI-driven tool designed for extracting and interacting with news content. Users can input article URLs and ask questions to receive AI-generated insights directly from the article content.
 
